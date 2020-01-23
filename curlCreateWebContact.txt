@@ -1,1 +1,0 @@
-curl -X POST -F 'mysource=new-web-contact-test-event-v1' -F 'firstname=Automated' -F 'lastname=Tester' -F 'email=web-services@simonplant.com' -F 'linkedin=https://www.linkedin.com/in/autmated-tester' -F 'phone=(555)824-8078' https://0bbs7knre1.execute-api.us-west-2.amazonaws.com/prod/web-contacts
